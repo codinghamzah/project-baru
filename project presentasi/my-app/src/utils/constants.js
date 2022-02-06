@@ -1,1 +1,1 @@
-export const API_URL = "https://my-json-server.typicode.com/codinghamzah/react-project/";
+export const API_URL = "http://localhost:3004/";
